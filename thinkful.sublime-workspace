@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"bacg",
+				"background"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"my",
+				"myHeading"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"n",
+				"nFibonacci"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"heigh",
+				"height"
+			],
+			[
+				"botto",
+				"text-bottom"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"skil",
+				"skills"
+			],
+			[
+				"g",
+				"greeting"
+			],
+			[
+				"hour",
+				"hourNow"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"skill",
+				"skillb"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"paddint",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"ali",
+				"vertical-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 1286,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 502.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Caleb/Documents/Thinkful/projects/thinkful-startup/index.html",
+		"/Users/Caleb/Documents/Thinkful/projects/thinkful-startup/style.css",
+		"/Users/Caleb/Documents/Thinkful/projects/startup-landing-page-clone/css/normalize.css",
+		"/Users/Caleb/Documents/Thinkful/projects/first-site/index.html",
+		"/Users/Caleb/Documents/Thinkful/index.html",
+		"/Users/Caleb/Library/Application Support/Sublime Text 2/Packages/User/SublimeServer.sublime-settings",
+		"/Users/Caleb/Documents/Thinkful/freshprince.html",
+		"/Users/Caleb/Documents/Thinkful/projects/mystyle.css",
+		"/Users/Caleb/Desktop/Mozilla JS/index.html",
+		"/Users/Caleb/Desktop/Mozilla JS/scripts/main.js",
+		"/Users/Caleb/Documents/sited/Caleb 2.0/html5-boilerplate_v5.2.0/index.html",
+		"/Users/Caleb/Documents/sited/Caleb 2.0/html5-boilerplate_v5.2.0/css/main.css",
+		"/Users/Caleb/Documents/sited/Caleb 2.0/bootstrap-3.3.5-dist copy/about.html",
+		"/Users/Caleb/Documents/sited/Caleb 2.0/bootstrap-3.3.5-dist copy/index.html",
+		"/Users/Caleb/Documents/sited/Caleb 2.0/style.css",
+		"/Users/Caleb/Documents/sited/Caleb 2.0/index.html",
+		"/Users/Caleb/Documents/sited/Caleb Site/style.css",
+		"/Users/Caleb/Documents/sited/Caleb Site/index.html",
+		"/Users/Caleb/Documents/sited/Caleb 2.0/bootstrap-3.3.5-dist copy/style.css",
+		"/Users/Caleb/Documents/sited/Caleb 2.0/bootstrap-3.3.5-dist copy/style.scss.css",
+		"/Users/Caleb/Documents/sited/Caleb 2.0/index-x.html",
+		"/Users/Caleb/Documents/Website Design/Caleb Site/index.html",
+		"/Users/Caleb/Desktop/bootstrap-3.3.5-dist/index.html",
+		"/Users/Caleb/Documents/sited/Paralax/index.html",
+		"/Users/Caleb/Documents/sited/Paralax/css/style.css",
+		"/Users/Caleb/Documents/Website Design/Caleb Site/style.css",
+		"/Users/Caleb/Documents/calebandjason/index.html",
+		"/Users/Caleb/Documents/Noisebridge Front-End/Week 2/Recap material/index.html",
+		"/Users/Caleb/Documents/Noisebridge Front-End/Week 2/Recap material/style.css",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/rbutton.html",
+		"/Users/Caleb/Documents/HTML and CSS/apple.html",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/formvalidation.html",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/search.html",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/submit.html",
+		"/Users/Caleb/Documents/HTML and CSS/to-do.html",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/groupelements.html",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/lfc.html",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/tinput.html",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/finput.html",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/pinput.html",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/tarea.html",
+		"/Users/Caleb/Documents/HTML and CSS/Forms/form.html",
+		"/Users/Caleb/Documents/HTML and CSS/Table/ltable.html",
+		"/Users/Caleb/Documents/Caleb Site/index.html",
+		"/Users/Caleb/Documents/HTML and CSS/Table/btable.html",
+		"/Users/Caleb/Documents/HTML and CSS/Table/spancolumns.html",
+		"/Users/Caleb/Documents/Noisebridge Front-End/Week 1/style.css",
+		"/Users/Caleb/Documents/Noisebridge Front-End/Week 1/index.html",
+		"/Users/Caleb/Documents/Noisebridge Front-End/Week 1/script.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"height",
+			"div.background",
+			"spacing",
+			"tech",
+			"spacing",
+			"p",
+			"logo",
+			"div.logo",
+			"h1.about",
+			"experience",
+			"header",
+			"experience",
+			"h1",
+			"opacity",
+			"nav",
+			"experience",
+			"max-width",
+			"form",
+			"logo",
+			"caleb",
+			"#",
+			"link",
+			"img",
+			"p.skills",
+			"skills",
+			"size"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 1286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1283,
+								1283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 291.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
