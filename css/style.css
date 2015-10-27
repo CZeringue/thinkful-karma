@@ -10,6 +10,7 @@ body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
     font-weight: normal;
+    color: #404143;
 }
 .content {
     width: 970px;
@@ -18,6 +19,10 @@ body {
 .top-navigation {
     padding-bottom: 15px;
     padding-top: 15px;
+    position: fixed;
+  width: 100%;
+  z-index: 9999;
+  background: white;
 }
 .top-navigation .links {
     float: right;
@@ -69,6 +74,58 @@ body {
   letter-spacing: 0.025em;
   padding-bottom: 1em;
 }
+/*Icons*/
+
+.icons {
+ padding: 0;
+  margin: 0;
+  list-style: none;
+  
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  
+  flex-flow: row wrap;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+
+}
+.icons-img {
+  width: 200px;
+  height: 150px;
+  margin-top: 10px;
+  
+  line-height: 150px;
+  color: white;
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+}
+.cases {
+height: 45.938rem;
+text-align: center;
+font-weight: normal;
+}
+
+.images {
+  display: inline-block;
+  padding: 0 3em;
+
+
+}
+.cases h2 {
+  font-weight: lighter;
+  padding: 1em 0em;
+  font-size: 3em;
+}
+.cases h3 {
+  font-weight: normal;
+  font-size: 1.5em;
+}
+
+/*Icons End */
 
 button {
  width: 9.688rem;
