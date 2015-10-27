@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"footer",
+				"footer-icon"
+			],
+			[
+				"light",
+				"LightGray"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
 				"backgroun",
 				"background"
 			],
@@ -26,10 +42,6 @@
 			[
 				"inline",
 				"inline-block"
-			],
-			[
-				"border",
-				"border-radius"
 			],
 			[
 				"back",
@@ -243,7 +255,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1550,
+				"buffer_size": 1815,
 				"line_ending": "Unix"
 			}
 		},
@@ -251,7 +263,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 2215,
+				"buffer_size": 2730,
 				"line_ending": "Unix"
 			}
 		}
@@ -401,15 +413,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 1550,
+						"buffer_size": 1815,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1489,
-								1489
+								1587,
+								1587
 							]
 						],
 						"settings":
@@ -417,7 +429,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 145.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -427,15 +439,15 @@
 					"file": "css/style.css",
 					"settings":
 					{
-						"buffer_size": 2215,
+						"buffer_size": 2730,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								408,
-								408
+								108,
+								26
 							]
 						],
 						"settings":
